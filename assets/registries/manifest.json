@@ -1,0 +1,474 @@
+{
+  "source": "https://packages.ecosyste.ms/api/v1/registries",
+  "images": [
+    {
+      "url": "https://github.com/npm.png",
+      "file": "npm.png",
+      "registries": [
+        "npmjs.org"
+      ]
+    },
+    {
+      "url": "https://github.com/golang.png",
+      "file": "golang.png",
+      "registries": [
+        "proxy.golang.org"
+      ]
+    },
+    {
+      "url": "https://github.com/docker.png",
+      "file": "docker.png",
+      "registries": [
+        "hub.docker.com"
+      ]
+    },
+    {
+      "url": "https://github.com/pypi.png",
+      "file": "pypi.png",
+      "registries": [
+        "pypi.org"
+      ]
+    },
+    {
+      "url": "https://github.com/nuget.png",
+      "file": "nuget.png",
+      "registries": [
+        "nuget.org"
+      ]
+    },
+    {
+      "url": "https://github.com/maven-central.png",
+      "file": "maven-central.png",
+      "registries": [
+        "repo1.maven.org"
+      ]
+    },
+    {
+      "url": "https://github.com/packagist.png",
+      "file": "packagist.png",
+      "registries": [
+        "packagist.org"
+      ]
+    },
+    {
+      "url": "https://github.com/rust-lang.png",
+      "file": "rust-lang.png",
+      "registries": [
+        "crates.io"
+      ]
+    },
+    {
+      "url": "https://github.com/rubygems.png",
+      "file": "rubygems.png",
+      "registries": [
+        "rubygems.org"
+      ]
+    },
+    {
+      "url": "https://github.com/gem-coop.png",
+      "file": "gem-coop.png",
+      "registries": [
+        "gem.coop"
+      ]
+    },
+    {
+      "url": "https://github.com/NixOS.png",
+      "file": "nixos.png",
+      "registries": [
+        "nixpkgs-unstable",
+        "nixpkgs-24.11",
+        "nixpkgs-24.05",
+        "nixpkgs-23.11",
+        "nixpkgs-23.05"
+      ]
+    },
+    {
+      "url": "https://github.com/cocoapods.png",
+      "file": "cocoapods.png",
+      "registries": [
+        "cocoapods.org"
+      ]
+    },
+    {
+      "url": "https://github.com/dart-lang.png",
+      "file": "dart-lang.png",
+      "registries": [
+        "pub.dev"
+      ]
+    },
+    {
+      "url": "https://github.com/bower.png",
+      "file": "bower.png",
+      "registries": [
+        "bower.io"
+      ]
+    },
+    {
+      "url": "https://github.com/metacpan.png",
+      "file": "metacpan.png",
+      "registries": [
+        "metacpan.org"
+      ]
+    },
+    {
+      "url": "https://github.com/alpinelinux.png",
+      "file": "alpinelinux.png",
+      "registries": [
+        "alpine-edge",
+        "alpine-v3.23",
+        "alpine-v3.22",
+        "alpine-v3.21",
+        "alpine-v3.20",
+        "alpine-v3.19",
+        "alpine-v3.18",
+        "alpine-v3.17",
+        "alpine-v3.16",
+        "alpine-v3.15",
+        "alpine-v3.14",
+        "alpine-v3.13",
+        "alpine-v3.12",
+        "alpine-v3.11",
+        "alpine-v3.10",
+        "alpine-v3.9",
+        "alpine-v3.8",
+        "alpine-v3.7",
+        "alpine-v3.6",
+        "alpine-v3.5",
+        "alpine-v3.4",
+        "alpine-v3.3"
+      ]
+    },
+    {
+      "url": "https://github.com/ubuntu.png",
+      "file": "ubuntu.png",
+      "registries": [
+        "ubuntu-24.10",
+        "ubuntu-24.04",
+        "ubuntu-23.10",
+        "ubuntu-23.04",
+        "ubuntu-22.04",
+        "ubuntu-20.04"
+      ]
+    },
+    {
+      "url": "https://github.com/debian.png",
+      "file": "debian.png",
+      "registries": [
+        "debian-13",
+        "debian-12",
+        "debian-11",
+        "debian-10"
+      ]
+    },
+    {
+      "url": "https://github.com/actions.png",
+      "file": "actions.png",
+      "registries": [
+        "github actions"
+      ]
+    },
+    {
+      "url": "https://github.com/guix-mirror.png",
+      "file": "guix-mirror.png",
+      "registries": [
+        "guix"
+      ]
+    },
+    {
+      "url": "https://github.com/hashicorp.png",
+      "file": "hashicorp.png",
+      "registries": [
+        "registry.terraform.io"
+      ]
+    },
+    {
+      "url": "https://github.com/hexpm.png",
+      "file": "hexpm.png",
+      "registries": [
+        "hex.pm"
+      ]
+    },
+    {
+      "url": "https://github.com/clojars.png",
+      "file": "clojars.png",
+      "registries": [
+        "clojars.org"
+      ]
+    },
+    {
+      "url": "https://github.com/open-vsx.png",
+      "file": "open-vsx.png",
+      "registries": [
+        "open-vsx.org"
+      ]
+    },
+    {
+      "url": "https://github.com/conda-forge.png",
+      "file": "conda-forge.png",
+      "registries": [
+        "conda-forge.org"
+      ]
+    },
+    {
+      "url": "https://github.com/pkgsrc.png",
+      "file": "pkgsrc.png",
+      "registries": [
+        "pkgsrc-netbsd-x86_64-10.1-all"
+      ]
+    },
+    {
+      "url": "https://github.com/gentoo.png",
+      "file": "gentoo.png",
+      "registries": [
+        "gentoo-portage"
+      ]
+    },
+    {
+      "url": "https://github.com/haskell-infra.png",
+      "file": "haskell-infra.png",
+      "registries": [
+        "hackage.haskell.org"
+      ]
+    },
+    {
+      "url": "https://github.com/artifacthub.png",
+      "file": "artifacthub.png",
+      "registries": [
+        "artifacthub.io"
+      ]
+    },
+    {
+      "url": "https://github.com/SwiftPackageIndex.png",
+      "file": "swiftpackageindex.png",
+      "registries": [
+        "swiftpackageindex.com"
+      ]
+    },
+    {
+      "url": "https://github.com/JuliaRegistries.png",
+      "file": "juliaregistries.png",
+      "registries": [
+        "juliahub.com"
+      ]
+    },
+    {
+      "url": "https://github.com/openbsd.png",
+      "file": "openbsd.png",
+      "registries": [
+        "openbsd-7.9-amd64"
+      ]
+    },
+    {
+      "url": "https://github.com/OpenIndiana.png",
+      "file": "openindiana.png",
+      "registries": [
+        "openindiana-hipster"
+      ]
+    },
+    {
+      "url": "https://github.com/homebrew.png",
+      "file": "homebrew.png",
+      "registries": [
+        "formulae.brew.sh"
+      ]
+    },
+    {
+      "url": "https://github.com/spack.png",
+      "file": "spack.png",
+      "registries": [
+        "spack.io"
+      ]
+    },
+    {
+      "url": "https://github.com/AdelieLinux.png",
+      "file": "adelielinux.png",
+      "registries": [
+        "pkg.adelielinux.org"
+      ]
+    },
+    {
+      "url": "https://github.com/puppet.png",
+      "file": "puppet.png",
+      "registries": [
+        "forge.puppet.com"
+      ]
+    },
+    {
+      "url": "https://github.com/TeX-82.png",
+      "file": "tex-82.png",
+      "registries": [
+        "ctan.org"
+      ]
+    },
+    {
+      "url": "https://github.com/denoland.png",
+      "file": "denoland.png",
+      "registries": [
+        "deno.land"
+      ]
+    },
+    {
+      "url": "https://github.com/ocaml.png",
+      "file": "ocaml.png",
+      "registries": [
+        "opam.ocaml.org"
+      ]
+    },
+    {
+      "url": "https://github.com/Anaconda.png",
+      "file": "anaconda.png",
+      "registries": [
+        "anaconda.org"
+      ]
+    },
+    {
+      "url": "https://github.com/f-droid.png",
+      "file": "f-droid.png",
+      "registries": [
+        "f-droid.org"
+      ]
+    },
+    {
+      "url": "https://github.com/cloudera.png",
+      "file": "cloudera.png",
+      "registries": [
+        "repository.cloudera.com"
+      ]
+    },
+    {
+      "url": "https://github.com/vcpkg.png",
+      "file": "vcpkg.png",
+      "registries": [
+        "vcpkg.io"
+      ]
+    },
+    {
+      "url": "https://github.com/racket-lang.png",
+      "file": "racket-lang.png",
+      "registries": [
+        "pkgs.racket-lang.org"
+      ]
+    },
+    {
+      "url": "https://github.com/elm.png",
+      "file": "elm.png",
+      "registries": [
+        "package.elm-lang.org"
+      ]
+    },
+    {
+      "url": "https://github.com/Bioconductor.png",
+      "file": "bioconductor.png",
+      "registries": [
+        "bioconductor.org"
+      ]
+    },
+    {
+      "url": "https://github.com/conan-io.png",
+      "file": "conan-io.png",
+      "registries": [
+        "conan.io"
+      ]
+    },
+    {
+      "url": "https://github.com/Carthage.png",
+      "file": "carthage.png",
+      "registries": [
+        "carthage"
+      ]
+    },
+    {
+      "url": "https://github.com/bazelbuild.png",
+      "file": "bazelbuild.png",
+      "registries": [
+        "registry.bazel.build"
+      ]
+    },
+    {
+      "url": "https://github.com/leanprover.png",
+      "file": "leanprover.png",
+      "registries": [
+        "reservoir.lean-lang.org"
+      ]
+    },
+    {
+      "url": "https://github.com/postmarketos.png",
+      "file": "postmarketos.png",
+      "registries": [
+        "postmarketos-master",
+        "postmarketos-v21.03",
+        "postmarketos-v20.05",
+        "postmarketos-v25.12",
+        "postmarketos-v25.06",
+        "postmarketos-v24.06",
+        "postmarketos-v24.12",
+        "postmarketos-v21.06",
+        "postmarketos-v21.12",
+        "postmarketos-v23.11",
+        "postmarketos-v23.12",
+        "postmarketos-v22.12",
+        "postmarketos-v23.06",
+        "postmarketos-v22.06"
+      ]
+    },
+    {
+      "url": "https://github.com/emacs.png",
+      "file": "emacs.png",
+      "registries": [
+        "elpa.gnu.org",
+        "elpa.nongnu.org"
+      ]
+    },
+    {
+      "url": "https://github.com/apache.png",
+      "file": "apache.png",
+      "registries": [
+        "repository.apache.org-releases",
+        "repository.apache.org-snapshots"
+      ]
+    },
+    {
+      "url": "https://github.com/jboss-eap.png",
+      "file": "jboss-eap.png",
+      "registries": [
+        "repository.jboss.org"
+      ]
+    },
+    {
+      "url": "https://github.com/alfresco.png",
+      "file": "alfresco.png",
+      "registries": [
+        "artifacts.alfresco.com"
+      ]
+    },
+    {
+      "url": "https://github.com/shibboleth.png",
+      "file": "shibboleth.png",
+      "registries": [
+        "build.shibboleth.net"
+      ]
+    },
+    {
+      "url": "https://github.com/jenkinsci.png",
+      "file": "jenkinsci.png",
+      "registries": [
+        "repo.jenkins-ci.org"
+      ]
+    },
+    {
+      "url": "https://github.com/gael-systems.png",
+      "file": "gael-systems.png",
+      "registries": [
+        "nexus.gael.cloud"
+      ]
+    },
+    {
+      "url": "https://github.com/freebsd.png",
+      "file": "freebsd.png",
+      "registries": [
+        "freebsd-15-amd64",
+        "freebsd-14-amd64"
+      ]
+    }
+  ]
+}
